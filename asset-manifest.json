@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/100KhanMawaz/TextOperation/static/css/main.e6c13ad2.css",
+    "main.js": "/100KhanMawaz/TextOperation/static/js/main.122158d8.js",
+    "static/js/787.856a2c82.chunk.js": "/100KhanMawaz/TextOperation/static/js/787.856a2c82.chunk.js",
+    "index.html": "/100KhanMawaz/TextOperation/index.html",
+    "main.e6c13ad2.css.map": "/100KhanMawaz/TextOperation/static/css/main.e6c13ad2.css.map",
+    "main.122158d8.js.map": "/100KhanMawaz/TextOperation/static/js/main.122158d8.js.map",
+    "787.856a2c82.chunk.js.map": "/100KhanMawaz/TextOperation/static/js/787.856a2c82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.122158d8.js"
+  ]
+}
